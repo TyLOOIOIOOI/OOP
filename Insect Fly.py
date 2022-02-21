@@ -1,7 +1,7 @@
 import FlyClass as F
 
-#wings = int(input("how many wings does the insect have?"))
-#legs = int(input("how many legs does the insect have?"))
+wings = int(input("how many wings does the insect have?"))
+legs = int(input("how many legs does the insect have?"))
 
 #this is creating an instance of the insect class
 mosquito = F.Insect(2,4)
